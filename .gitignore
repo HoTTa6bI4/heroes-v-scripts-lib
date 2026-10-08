@@ -1,5 +1,5 @@
 # Folder settings
-vscode/
+.vscode/
 
 # Workspace settings
 *.code-workspace
